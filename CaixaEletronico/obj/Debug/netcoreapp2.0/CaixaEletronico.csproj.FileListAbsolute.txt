@@ -1,0 +1,11 @@
+c:\users\eduardo.estevao.ext\source\repos\CaixaEletronico\CaixaEletronico\bin\Debug\netcoreapp2.0\CaixaEletronico.deps.json
+c:\users\eduardo.estevao.ext\source\repos\CaixaEletronico\CaixaEletronico\bin\Debug\netcoreapp2.0\CaixaEletronico.runtimeconfig.json
+c:\users\eduardo.estevao.ext\source\repos\CaixaEletronico\CaixaEletronico\bin\Debug\netcoreapp2.0\CaixaEletronico.runtimeconfig.dev.json
+c:\users\eduardo.estevao.ext\source\repos\CaixaEletronico\CaixaEletronico\bin\Debug\netcoreapp2.0\CaixaEletronico.dll
+c:\users\eduardo.estevao.ext\source\repos\CaixaEletronico\CaixaEletronico\bin\Debug\netcoreapp2.0\CaixaEletronico.pdb
+c:\users\eduardo.estevao.ext\source\repos\CaixaEletronico\CaixaEletronico\obj\Debug\netcoreapp2.0\CaixaEletronico.csprojAssemblyReference.cache
+c:\users\eduardo.estevao.ext\source\repos\CaixaEletronico\CaixaEletronico\obj\Debug\netcoreapp2.0\CaixaEletronico.csproj.CoreCompileInputs.cache
+c:\users\eduardo.estevao.ext\source\repos\CaixaEletronico\CaixaEletronico\obj\Debug\netcoreapp2.0\CaixaEletronico.AssemblyInfoInputs.cache
+c:\users\eduardo.estevao.ext\source\repos\CaixaEletronico\CaixaEletronico\obj\Debug\netcoreapp2.0\CaixaEletronico.AssemblyInfo.cs
+c:\users\eduardo.estevao.ext\source\repos\CaixaEletronico\CaixaEletronico\obj\Debug\netcoreapp2.0\CaixaEletronico.dll
+c:\users\eduardo.estevao.ext\source\repos\CaixaEletronico\CaixaEletronico\obj\Debug\netcoreapp2.0\CaixaEletronico.pdb
